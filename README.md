@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Abdelrahman Ayad</h1>
 <h3 align="center">Software Engineer | React Native developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanayaad&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanayaad" /> </p>
 
 - 🔭 I’m currently working on [Booking Lesson App](https://github.com/IconicTeam/BookingLessons)
