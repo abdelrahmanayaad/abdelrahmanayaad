@@ -1,28 +1,89 @@
+# 👋 Hi, I'm Abdelrahman Ayad
 
-<h1 align="center">Hi 👋, I'm Abdelrahman Ayad</h1>
-<h3 align="center">Software Engineer | React Native developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanayaad&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanayaad" /> </p>
+### 🚀 React Native Developer | Software Engineer
 
-- 🔭 I’m currently working on [Doctor Appointment App](https://github.com/EsraaRedaElgiz/DoctorAppointmentApp)
+📍 **Tanta, Gharbia, Egypt**  
+💼 **Currently working at [ViaKonnect](https://viakonnect.com/)** (Saudi Arabia) — *Remote*  
+📧 **abdelrahmanayad72@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ayad) | [GitHub](https://github.com/abdelrahmanayaad)
 
-- 🌱 I’m currently learning **Advanced React Native and JavaScript**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdelrahmanayaad](https://github.com/abdelrahmanayaad)
+## 🧠 About Me
 
-- 💬 Ask me about **React Native and JavaScript**
+I’m a **React Native Developer** with over a year of hands-on experience building mobile applications using **React Native**, **TypeScript**, and modern frontend technologies.  
+I’m passionate about creating impactful mobile experiences, improving code quality, and continuously learning new technologies.
 
-- 📫 How to reach me **abdelrahmanayad72@gmail.com**
+I aim to leave a positive fingerprint through every project I build — striving for clean, scalable, and user-focused applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-ayad-1316001b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-ayad-1316001b0" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 🏢 Experience
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanayaad&show_icons=true&locale=en&layout=compact" alt="abdelrahmanayaad" /></p>
+### 💼 React Native Developer — [ViaKonnect](https://viakonnect.com/)
+**Remote (Saudi Arabia)**  
+*Dec 2024 – Present*  
+Working on developing and maintaining mobile applications that serve business needs efficiently using **React Native**, **TypeScript**, **React Query**, and **Redux Toolkit**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanayaad&show_icons=true&locale=en" alt="abdelrahmanayaad" /></p>
+### 💼 React Native Developer — IT-Fusion Software House
+**Hybrid**  
+Worked on medical insurance and financing applications, improving UI performance and enhancing app reliability.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanayaad&" alt="abdelrahmanayaad" /></p>
+### 💻 Freelance Developer
+Developed and contributed to projects like **Arabdict App**, working on features such as text detection from images for real-time translation.
+
+---
+
+## 🧩 Projects
+
+### 🏥 [DOCLIN (Graduation Project)](https://github.com/adyhatem65/DoctorAppointmentApp)
+A healthcare app that allows booking doctor appointments, saving treatments, and viewing patient history.  
+**Tech:** React Native, Redux Toolkit, Firebase, PHP, MySQL, Axios
+
+### 🌍 [Arabdict](https://play.google.com/store/apps/details?id=com.arabdict.dictionary&hl=ar)
+Dictionary app that supports multiple languages and includes OCR text detection for translation.
+
+### 💳 ND Financial
+Mobile app for managing requests between service providers and companies.  
+**Tech:** TypeScript, React Native, React Query, Redux Toolkit
+
+### 🏥 Estsharion
+Medical insurance app enabling users to book appointments and validate insurance eligibility with real-time updates.  
+**Tech:** React Native, Redux Toolkit, React Navigation, REST APIs
+
+### 🛍️ [E-Commerce App](https://github.com/abdelrahmanayaad/E-Commerce)
+E-commerce mobile app to browse and order products online.  
+**Tech:** React Native, React Redux, Axios
+
+### 📸 [Photographer App](https://github.com/abdelrahmanayaad/Photographer)
+App to book photographers, view their work, and manage photo sessions.  
+**Tech:** React Native, PHP, MySQL
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript (ES6+), TypeScript 
+- **Frameworks & Libraries:** React Native, React Hooks, Redux, Redux Toolkit, React Query, Context API  
+- **Tools:** Git, GitHub, Firebase, REST APIs, Gradle  
+- **Other Skills:** OOP, Data Structures, Problem Solving
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced animations and performance optimization in React Native  
+- System Design fundamentals for scalable mobile apps  
+- Clean Architecture and design patterns
+
+---
+
+## 📫 Get in Touch
+
+- ✉️ Email: **abdelrahmanayad72@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ayad)  
+- 💻 [GitHub](https://github.com/abdelrahmanayaad)
+
+---
+
+⭐ **“Keep learning, keep building, and leave your fingerprint in code.”**
