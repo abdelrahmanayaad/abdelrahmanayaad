@@ -22,11 +22,12 @@ I aim to leave a positive fingerprint through every project I build — striving
 
 ### 💼 React Native Developer — [ViaKonnect](https://viakonnect.com/)
 **Remote (Saudi Arabia)**  
-*Dec 2024 – Present*  
+*Jun 2025 – Present*  
 Working on developing and maintaining mobile applications that serve business needs efficiently using **React Native**, **TypeScript**, **React Query**, and **Redux Toolkit**.
 
 ### 💼 React Native Developer — IT-Fusion Software House
 **Hybrid**  
+*Dec 2024 – Jun 2025*  
 Worked on medical insurance and financing applications, improving UI performance and enhancing app reliability.
 
 ### 💻 Freelance Developer
