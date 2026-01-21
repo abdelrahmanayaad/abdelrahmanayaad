@@ -66,7 +66,7 @@ ViaKonnect is an innovative travel technology company based in Jeddah, Saudi Ara
 📊 **GPA: 3.2 (Very Good)**  
 *2019 – 2023*
 
-**Military Status:** Completed mandatory service *(Dec 2023 – Dec 2024)*
+**Military Status:** Completed mandatory service *(Oct 2023 – Dec 2024)*
 
 ---
 
