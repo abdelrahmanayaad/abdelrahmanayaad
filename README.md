@@ -1,90 +1,184 @@
 # 👋 Hi, I'm Abdelrahman Ayad
 
-### 🚀 React Native Developer | Software Engineer
+### Software Engineer | React Native developer
 
 📍 **Tanta, Gharbia, Egypt**  
-💼 **Currently working at [ViaKonnect](https://viakonnect.com/)** (Saudi Arabia) — *Remote*  
+💼 **React Native Developer at [ViaKonnect](https://viakonnect.com/)** — *Remote (Saudi Arabia)*  
 📧 **abdelrahmanayad72@gmail.com**  
+📞 **+20 102 666 9167**  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ayad) | [GitHub](https://github.com/abdelrahmanayaad)
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m a **React Native Developer** with over a year of hands-on experience building mobile applications using **React Native**, **TypeScript**, and modern frontend technologies.  
-I’m passionate about creating impactful mobile experiences, improving code quality, and continuously learning new technologies.
+I am a **React Native Developer with 2+ years of experience** in mobile application development using **React Native** and modern frontend technologies.
 
-I aim to leave a positive fingerprint through every project I build — striving for clean, scalable, and user-focused applications.
+I am deeply interested in building high-quality, scalable mobile applications that solve real-world problems. I continuously strive to improve my technical skills, write clean and maintainable code, and take on new challenges that help me grow as a **Software Engineer and future technical leader**.
+
+> *I aim to leave a clear fingerprint in every project I work on.*
 
 ---
 
-## 🏢 Experience
+## Experience
 
-### 💼 React Native Developer — [ViaKonnect](https://viakonnect.com/)
+### React Native Developer — [ViaKonnect](https://viakonnect.com/)
 **Remote (Saudi Arabia)**  
-*Jun 2025 – Present*  
-Working on developing and maintaining mobile applications that serve business needs efficiently using **React Native**, **TypeScript**, **React Query**, and **Redux Toolkit**.
+*Jun 2024 – Present*
 
-### 💼 React Native Developer — IT-Fusion Software House
-**Hybrid**  
-*Dec 2024 – Jun 2025*  
-Worked on medical insurance and financing applications, improving UI performance and enhancing app reliability.
+ViaKonnect is an innovative travel technology company based in Jeddah, Saudi Arabia, offering an all-in-one travel platform.
 
-### 💻 Freelance Developer
-Developed and contributed to projects like **Arabdict App**, working on features such as text detection from images for real-time translation.
+**Key Contributions:**
+- Contributed to the **ViaKonnect mobile app** across **iOS, Android, and Mobile Web**
+- Led the **Hotel Booking flow** (feature development, performance optimization, bug fixing)
+- Worked on the **Activities booking flow**, improving logic, UX, and stability
+- Integrated backend services and third-party solutions (**Supabase, REST APIs**)
+- Improved cross-platform consistency and overall app reliability
+
+**Tech:** React Native, TypeScript, Redux Toolkit, React Query, Supabase, REST APIs
 
 ---
 
-## 🧩 Projects
+### React Native Developer — IT-Fusion Software House
+**Hybrid**  
+*Dec 2024 – May 2024*
 
-### 🏥 [DOCLIN (Graduation Project)](https://github.com/adyhatem65/DoctorAppointmentApp)
-A healthcare app that allows booking doctor appointments, saving treatments, and viewing patient history.  
-**Tech:** React Native, Redux Toolkit, Firebase, PHP, MySQL, Axios
+- Worked on **medical insurance** and **financing applications**
+- Built and enhanced booking flows and insurance validation features
+- Improved UI performance and app stability
 
-### 🌍 [Arabdict](https://play.google.com/store/apps/details?id=com.arabdict.dictionary&hl=ar)
-Dictionary app that supports multiple languages and includes OCR text detection for translation.
-
-### 💳 ND Financial
-Mobile app for managing requests between service providers and companies.  
-**Tech:** TypeScript, React Native, React Query, Redux Toolkit
-
-### 🏥 Estsharion
-Medical insurance app enabling users to book appointments and validate insurance eligibility with real-time updates.  
 **Tech:** React Native, Redux Toolkit, React Navigation, REST APIs
 
-### 🛍️ [E-Commerce App](https://github.com/abdelrahmanayaad/E-Commerce)
-E-commerce mobile app to browse and order products online.  
-**Tech:** React Native, React Redux, Axios
+---
 
-### 📸 [Photographer App](https://github.com/abdelrahmanayaad/Photographer)
-App to book photographers, view their work, and manage photo sessions.  
+### Freelance React Native Developer
+*Sep 2023 – Oct 2023*
+
+- Contributed to **Arabdict App**
+- Implemented **OCR text detection from images** for real-time translation
+
+---
+
+## Education
+
+**Faculty of Computer & Information — Tanta University**  
+ **Bachelor’s Degree in Computer Science**  
+📊 **GPA: 3.2 (Very Good)**  
+*2019 – 2023*
+
+**Military Status:** Completed mandatory service *(Dec 2023 – Dec 2024)*
+
+---
+
+## Projects
+
+### ViaKonnect — iOS | Android | Web
+- Developed and enhanced core booking flows
+- Led Hotel Booking flow end-to-end
+- Improved performance, conversion rates, and stability
+- Worked closely with backend services and third-party APIs
+
+---
+
+### [DOCLIN – Graduation Project](https://github.com/adyhatem65/DoctorAppointmentApp)
+Healthcare application for booking doctor appointments and managing treatment history.
+
+**Tech:** React Native, Redux Toolkit, Firebase, PHP, MySQL, Axios
+
+---
+
+### [Arabdict](https://play.google.com/store/apps/details?id=com.arabdict.dictionary&hl=ar)
+Multi-language dictionary app with **OCR image text detection** for translation.
+
+---
+
+### ND Financial
+Application for managing transactions between companies and service providers.
+
+**Tech:** TypeScript, React Native, Redux Toolkit, React Query, REST APIs
+
+---
+
+### Estsharion
+Medical insurance app for appointment booking and insurance eligibility validation.
+
+**Features:**
+- Doctor profiles & clinic locations
+- Real-time booking & schedules
+- Insurance validation workflows
+
+---
+
+### [E-Commerce App](https://github.com/abdelrahmanayaad/E-Commerce)
+Mobile app for browsing and ordering products online.
+
+**Tech:** React Native, Redux, Axios
+
+---
+
+### [Photographer App](https://github.com/abdelrahmanayaad/Photographer)
+Platform to book photographers and manage photo sessions.
+
 **Tech:** React Native, PHP, MySQL
 
 ---
 
-## 🛠️ Tech Stack
+### E-Learning App
+Online learning application UI with simple animations.
 
-- **Languages:** JavaScript (ES6+), TypeScript 
-- **Frameworks & Libraries:** React Native, React Hooks, Redux, Redux Toolkit, React Query, Context API  
-- **Tools:** Git, GitHub, Firebase, REST APIs, Gradle  
-- **Other Skills:** OOP, Data Structures, Problem Solving
+**Tech:** React Native, Firebase
 
 ---
 
-## 🌱 Currently Learning
+## Tech Stack
 
-- Advanced animations and performance optimization in React Native  
-- System Design fundamentals for scalable mobile apps  
-- Clean Architecture and design patterns
+**Languages**
+- JavaScript (ES6+), TypeScript
+
+**Mobile & Frontend**
+- React Native, React Hooks, JSX
+- Redux, Redux Toolkit, Zustand
+- React Query, Context API
+- React Navigation
+
+**Backend & Services**
+- REST APIs, Axios
+- Firebase, Supabase
+
+**Other**
+- HTML, CSS, Tailwind
+- Gradle
+- OOP, Data Structures, Problem Solving
 
 ---
 
-## 📫 Get in Touch
+## Currently Learning
 
-- ✉️ Email: **abdelrahmanayad72@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ayad)  
-- 💻 [GitHub](https://github.com/abdelrahmanayaad)
+- Advanced React Native animations & performance optimization
+- System Design for scalable mobile applications
+- Clean Architecture & design patterns
 
 ---
 
-⭐ **“Keep learning, keep building, and leave your fingerprint in code.”**
+## Personal Skills
+
+- Time Management
+- Teamwork & Independent Work
+- Efficiency
+- Continuous Learning
+
+---
+
+## Languages
+
+- **Arabic:** Native  
+- **English:** Elementary Proficiency
+
+---
+
+## Get in Touch
+
+- ✉️ **Email:** abdelrahmanayad72@gmail.com  
+- 💼 **LinkedIn:** [abdelrahman-ayad](https://www.linkedin.com/in/abdelrahman-ayad)  
+- 💻 **GitHub:** [abdelrahmanayaad](https://github.com/abdelrahmanayaad)
+
