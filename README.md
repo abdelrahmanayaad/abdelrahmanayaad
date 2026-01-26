@@ -24,7 +24,7 @@ I am deeply interested in building high-quality, scalable mobile applications th
 
 ### React Native Developer — [ViaKonnect](https://viakonnect.com/)
 **Remote (Saudi Arabia)**  
-*Jun 2024 – Present*
+*Jun 2025 – Present*
 
 ViaKonnect is an innovative travel technology company based in Jeddah, Saudi Arabia, offering an all-in-one travel platform.
 
@@ -41,7 +41,7 @@ ViaKonnect is an innovative travel technology company based in Jeddah, Saudi Ara
 
 ### React Native Developer — IT-Fusion Software House
 **Hybrid**  
-*Dec 2024 – May 2024*
+*Dec 2024 – May 2025*
 
 - Worked on **medical insurance** and **financing applications**
 - Built and enhanced booking flows and insurance validation features
